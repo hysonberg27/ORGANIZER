@@ -2,7 +2,7 @@
 
 A modern web application for organizing space items efficiently.
 
-## Quick Start (Easiest Way) for DICKHEAD LIKE ALI
+## Quick Start (Easiest Way) for DICKHEADS LIKE ALI
 
 1. **Install Node.js**
    - Download and install from [nodejs.org](https://nodejs.org)
